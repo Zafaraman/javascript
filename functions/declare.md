@@ -16,7 +16,7 @@ Functions are also values in JavaScript; they can be stored in variables (just l
 var double = function (x) {
   return 2 * x;
 };
-```
+```//numpy 
 
 > _Note:_ the function above **may not** be referenced before it is defined, just like any other variable.
 
